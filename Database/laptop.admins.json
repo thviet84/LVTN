@@ -1,0 +1,119 @@
+[{
+  "_id": {
+    "$oid": "63ec91d6b2a38d2e5be9f1ed"
+  },
+  "hoten": "Trần Hoàng Việt",
+  "email": "admin@gmail.com",
+  "password": "123456789",
+  "avt": "avt1.jpg",
+  "sdt": "0868224463",
+  "adress": "Đường 3/2, Xuân Khánh, Ninh Kiều, Cần Thơ",
+  "sex": "nam",
+  "date": "14/02/2001",
+  "createdAt": {
+    "$date": "2023-02-15T08:03:34.567Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-20T08:54:54.566Z"
+  },
+  "__v": 0,
+  "chucvu": {
+    "$oid": "6409a84684766904c46cec8e"
+  },
+  "status": true
+},
+{
+  "_id": {
+    "$oid": "64345f01ec5de8df2cacfb90"
+  },
+  "hoten": "Thiên Nguyễn",
+  "email": "nhanvien1@gmail.com",
+  "password": "123456",
+  "avt": "hinh-nen-meo-con-de-thuong_s943.jpg",
+  "sdt": "0786877893",
+  "adress": "232/19A 30/4 Hưng Lợi - Ninh Kiều - Cần Thơ",
+  "sex": "nam",
+  "date": "26/02/2001",
+  "chucvu": {
+    "$oid": "6409a81c84766904c46cec8d"
+  },
+  "createdAt": {
+    "$date": "2023-04-10T19:09:53.681Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-01T05:39:03.986Z"
+  },
+  "__v": 0,
+  "status": true
+},
+{
+  "_id": {
+    "$oid": "64345f2fec5de8df2cacfb94"
+  },
+  "hoten": "nhân viên 2",
+  "email": "nhanvien2@gmail.com",
+  "password": "123456",
+  "avt": "hinh-nen-meo-con-de-thuong_s943.jpg",
+  "sdt": "0125665221",
+  "adress": "232/19A 30/4 Hưng Lợi - Ninh Kiều - Cần Thơ",
+  "sex": "nam",
+  "date": "26/02/2001",
+  "chucvu": {
+    "$oid": "6409a81c84766904c46cec8d"
+  },
+  "createdAt": {
+    "$date": "2023-04-10T19:10:39.412Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-06T07:08:40.684Z"
+  },
+  "__v": 0,
+  "status": false
+},
+{
+  "_id": {
+    "$oid": "6447a8464c1703a35b7b52af"
+  },
+  "hoten": "Nguyễn Thị Bánh Bèo 3",
+  "email": "nhanvien3@gmail.com",
+  "password": "123456",
+  "avt": "hinh-nen-meo-con-de-thuong_s943.jpg",
+  "sdt": "0786877893",
+  "adress": "232/19A 30/4 Hưng Lợi - Ninh Kiều - Cần Thơ",
+  "sex": "nam",
+  "date": "26/02/2017",
+  "chucvu": {
+    "$oid": "6409a81c84766904c46cec8d"
+  },
+  "status": false,
+  "createdAt": {
+    "$date": "2023-04-25T10:15:34.975Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-01T05:24:44.906Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "656971a75f686ed67db2d82e"
+  },
+  "hoten": "nhân viên 3",
+  "email": "nhanvien3@gmail.com",
+  "password": "123456",
+  "avt": "hinh-nen-meo-con-de-thuong_s943.jpg",
+  "sdt": "0846995532",
+  "adress": "Cần Thơ",
+  "date": "26/02/2001",
+  "chucvu": {
+    "$oid": "6409a81c84766904c46cec8d"
+  },
+  "status": false,
+  "createdAt": {
+    "$date": "2023-12-01T05:39:51.780Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-01T05:41:52.531Z"
+  },
+  "__v": 0
+}]

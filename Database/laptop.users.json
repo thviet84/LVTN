@@ -1,0 +1,184 @@
+[{
+  "_id": {
+    "$oid": "6549a32275c6ff46c1de3d02"
+  },
+  "name": "việt",
+  "email": "viettran140201@gmail.com",
+  "password": "123456",
+  "avt": "hinh-nen-meo-con-de-thuong_s943.jpg",
+  "sdt": "0868224463",
+  "adress": "Trà Vinh",
+  "createdAt": {
+    "$date": "2023-11-07T02:38:26.885Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-07T02:38:26.885Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65532a0d0d24748f31fb698e"
+  },
+  "name": "Việt Trần",
+  "email": "viettran140201@gmail.com",
+  "password": "",
+  "avt": "Avatartrang.jpg",
+  "sdt": "",
+  "adress": "",
+  "createdAt": {
+    "$date": "2023-11-14T08:04:29.051Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-28T10:03:31.551Z"
+  },
+  "__v": 0,
+  "status": false
+},
+{
+  "_id": {
+    "$oid": "6553388f6730901f7e5e9b34"
+  },
+  "name": "việt",
+  "email": "crisnaldo8484@gmail.com",
+  "password": "123456",
+  "avt": "134949.jpg",
+  "sdt": "0868224463",
+  "adress": "Trà Vinh",
+  "createdAt": {
+    "$date": "2023-11-14T09:06:23.109Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-06T04:44:37.799Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65533c4d77865a43cea30e31"
+  },
+  "name": "Long",
+  "email": "kimlonglam100@gmail.com",
+  "password": "123456789",
+  "avt": "134919.jpg",
+  "sdt": "0868224463",
+  "adress": "Trà Vinh",
+  "createdAt": {
+    "$date": "2023-11-14T09:22:22.004Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-14T09:25:30.954Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65533ca45a7e0d518c7cc114"
+  },
+  "name": "long",
+  "email": "viet123@gmail.com",
+  "password": "123456789",
+  "avt": "134919.jpg",
+  "sdt": "0868224463",
+  "adress": "Trà Vinh",
+  "createdAt": {
+    "$date": "2023-11-14T09:23:48.383Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-01T05:42:09.163Z"
+  },
+  "__v": 0,
+  "status": false
+},
+{
+  "_id": {
+    "$oid": "65533eca5a7e0d518c7cc125"
+  },
+  "name": "long",
+  "email": "long@gmail.com",
+  "password": "123456789",
+  "avt": "134919.jpg",
+  "sdt": "0868224463",
+  "adress": "Trà Vinh",
+  "createdAt": {
+    "$date": "2023-11-14T09:32:58.204Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-01T05:38:17.516Z"
+  },
+  "__v": 0,
+  "status": false
+},
+{
+  "_id": {
+    "$oid": "65533ef45a7e0d518c7cc12c"
+  },
+  "name": "lambo",
+  "email": "viet1402@gmail.com",
+  "password": "123456789",
+  "avt": "134949.jpg",
+  "sdt": "0868224463",
+  "adress": "Trà Vinh",
+  "createdAt": {
+    "$date": "2023-11-14T09:33:40.771Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-28T10:03:39.912Z"
+  },
+  "__v": 0,
+  "status": false
+},
+{
+  "_id": {
+    "$oid": "655341885a7e0d518c7cc13d"
+  },
+  "name": "việt",
+  "email": "viet12@gmail.com",
+  "password": "123456789",
+  "avt": "134949.jpg",
+  "sdt": "0868224463",
+  "adress": "Trà Vinh",
+  "createdAt": {
+    "$date": "2023-11-14T09:44:40.724Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-14T09:45:41.891Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "656d2391b6024b069b5f281d"
+  },
+  "name": "trần hoang việt",
+  "email": "viethoangtv84@gmail.com",
+  "password": "123456789",
+  "avt": "avt1.jpg",
+  "sdt": "0868224463",
+  "adress": "Trà Vinh",
+  "createdAt": {
+    "$date": "2023-12-04T00:55:46.002Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-04T00:55:46.002Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677b5d38876c1126c0934188"
+  },
+  "name": "Hoang Viet",
+  "email": "viet@gmail.com",
+  "password": "viethoangtv123",
+  "avt": "images.png",
+  "sdt": "0868224463",
+  "adress": "Trà Vinh",
+  "createdAt": {
+    "$date": "2025-01-06T04:34:00.438Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-06T04:34:00.438Z"
+  },
+  "__v": 0
+}]

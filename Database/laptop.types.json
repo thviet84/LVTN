@@ -1,0 +1,217 @@
+[{
+  "_id": {
+    "$oid": "63ecb51345d7c68cc56a17fe"
+  },
+  "name": "Dell",
+  "logo": "dell.jpg",
+  "status": true,
+  "createdAt": {
+    "$date": "2023-02-15T10:33:55.132Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-06T07:06:25.175Z"
+  },
+  "__v": 0,
+  "deleted": false
+},
+{
+  "_id": {
+    "$oid": "63f7442ead5d766c23281c20"
+  },
+  "name": "Laptop Asus",
+  "logo": "logo-asus.jpg",
+  "status": true,
+  "createdAt": {
+    "$date": "2023-02-23T10:47:10.183Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-28T09:08:05.334Z"
+  },
+  "__v": 0,
+  "deleted": false
+},
+{
+  "_id": {
+    "$oid": "64258a2f026a6d9ccfb76791"
+  },
+  "name": "maybach",
+  "logo": "maybach.jpg",
+  "status": true,
+  "createdAt": {
+    "$date": "2023-03-30T13:10:07.159Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-25T09:42:57.249Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64258a4d026a6d9ccfb76795"
+  },
+  "name": "mazda",
+  "logo": "mazda.jpg",
+  "status": true,
+  "createdAt": {
+    "$date": "2023-03-30T13:10:37.517Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-25T09:42:46.573Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64258a58026a6d9ccfb76798"
+  },
+  "name": "bmw",
+  "logo": "bmw.jpg",
+  "status": true,
+  "createdAt": {
+    "$date": "2023-03-30T13:10:48.659Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-25T09:42:44.852Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64258a68026a6d9ccfb7679b"
+  },
+  "name": "ranger",
+  "logo": "ranger.jpg",
+  "status": true,
+  "createdAt": {
+    "$date": "2023-03-30T13:11:04.690Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-25T09:42:43.624Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64258a77026a6d9ccfb7679e"
+  },
+  "name": "rollroyce",
+  "logo": "rollroyce.jpg",
+  "status": true,
+  "createdAt": {
+    "$date": "2023-03-30T13:11:19.956Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-25T09:42:41.174Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64258a90026a6d9ccfb767a2"
+  },
+  "name": "toyota",
+  "logo": "toyota.jpg",
+  "status": true,
+  "createdAt": {
+    "$date": "2023-03-30T13:11:44.025Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-25T09:42:39.958Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64258a9e026a6d9ccfb767a5"
+  },
+  "name": "vinfast",
+  "logo": "vinfast.jpg",
+  "status": true,
+  "createdAt": {
+    "$date": "2023-03-30T13:11:58.942Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-25T09:42:38.465Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655340755a7e0d518c7cc139"
+  },
+  "name": "Laptop Acer",
+  "logo": "logo-acer.jpg",
+  "status": true,
+  "deleted": false,
+  "createdAt": {
+    "$date": "2023-11-14T09:40:05.723Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-28T09:08:10.765Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6567565bb99010f98e354627"
+  },
+  "name": "Chuột",
+  "logo": "computer-mouse-logo.jpg",
+  "status": true,
+  "deleted": false,
+  "createdAt": {
+    "$date": "2023-11-29T15:18:51.087Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-29T15:18:51.087Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6568d26941ebee067f950e5f"
+  },
+  "name": "Laptop Lenovo",
+  "logo": "lenovo.jpg",
+  "status": true,
+  "deleted": true,
+  "createdAt": {
+    "$date": "2023-11-30T18:20:25.416Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-01T13:55:53.735Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6569e5f2102669fd455cd363"
+  },
+  "name": "Bàn phím",
+  "status": true,
+  "deleted": false,
+  "createdAt": {
+    "$date": "2023-12-01T13:56:02.750Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-01T13:56:42.200Z"
+  },
+  "__v": 0,
+  "logo": "pngtree-hand-drawn-cartoon-blue-keyboard-png-element-image_1102590.jpg"
+},
+{
+  "_id": {
+    "$oid": "656d261db6024b069b5f28b6"
+  },
+  "name": "Tai nghe",
+  "logo": "download1.png",
+  "status": true,
+  "deleted": true,
+  "createdAt": {
+    "$date": "2023-12-04T01:06:37.098Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-06T07:06:31.323Z"
+  },
+  "__v": 0
+}]

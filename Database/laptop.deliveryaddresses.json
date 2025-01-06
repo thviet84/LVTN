@@ -1,0 +1,98 @@
+[{
+  "_id": {
+    "$oid": "6436709c8f93e60c30c0cbee"
+  },
+  "customer": {
+    "$oid": "643466efec5de8df2cad00b9"
+  },
+  "deliveryAddress": [
+    {
+      "address": "232/19A 30/4 Hưng Lợi - Ninh Kiều - Cần Thơ",
+      "_id": {
+        "$oid": "6436709c8f93e60c30c0cbef"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-04-12T08:49:32.785Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-12T08:49:32.785Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64422b03dd78d2194f95db0e"
+  },
+  "customer": {
+    "$oid": "643fb7b2ab9e421e0d7bf1ba"
+  },
+  "deliveryAddress": [
+    {
+      "address": "232/19A 30/4 Hưng Lợi - Ninh Kiều - Cần Thơ",
+      "_id": {
+        "$oid": "64422b03dd78d2194f95db0f"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-04-21T06:19:47.850Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-21T06:19:47.850Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655338bd6730901f7e5e9b6a"
+  },
+  "customer": {
+    "$oid": "6553388f6730901f7e5e9b34"
+  },
+  "deliveryAddress": [
+    {
+      "address": "Đường 3/2, Xuân Khánh, Ninh Kiều, Cần Thơ",
+      "_id": {
+        "$oid": "655338bd6730901f7e5e9b6b"
+      }
+    },
+    {
+      "address": "Trà Vinh",
+      "_id": {
+        "$oid": "6553448efcf73e0a16069b73"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-11-14T09:07:09.750Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-14T09:57:34.638Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "656d2584b6024b069b5f2877"
+  },
+  "customer": {
+    "$oid": "656d2391b6024b069b5f281d"
+  },
+  "deliveryAddress": [
+    {
+      "address": "Trà Vinh",
+      "_id": {
+        "$oid": "656d2584b6024b069b5f2878"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-12-04T01:04:04.695Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-04T01:04:04.695Z"
+  },
+  "__v": 0
+}]

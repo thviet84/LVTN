@@ -1,0 +1,120 @@
+[{
+  "_id": {
+    "$oid": "644248b6d8e6eb5ad31334e0"
+  },
+  "content": "Sản phẩm này khá ok\n",
+  "status": false,
+  "products": {
+    "$oid": "64258141026a6d9ccfb76650"
+  },
+  "customer": {
+    "$oid": "643fb7b2ab9e421e0d7bf1ba"
+  },
+  "createdAt": {
+    "$date": "2023-04-21T08:26:30.854Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-06T07:07:10.703Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64478a46259e12374f5577f8"
+  },
+  "content": "Sản phẩm quá đẹp",
+  "status": true,
+  "products": {
+    "$oid": "642580f2026a6d9ccfb76647"
+  },
+  "customer": {
+    "$oid": "643fb7b2ab9e421e0d7bf1ba"
+  },
+  "createdAt": {
+    "$date": "2023-04-25T08:07:34.947Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-25T08:07:34.947Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "656608f2845d33085ac9a773"
+  },
+  "content": "đẹp",
+  "status": true,
+  "products": {
+    "$oid": "655cbd6a63a53e8a923f60a4"
+  },
+  "customer": {
+    "$oid": "6553388f6730901f7e5e9b34"
+  },
+  "createdAt": {
+    "$date": "2023-11-28T15:36:18.954Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-28T15:36:18.954Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "656609a1845d33085ac9a7e8"
+  },
+  "content": "Qúa đẹp",
+  "status": true,
+  "products": {
+    "$oid": "655cbd6a63a53e8a923f60a4"
+  },
+  "customer": {
+    "$oid": "6553388f6730901f7e5e9b34"
+  },
+  "createdAt": {
+    "$date": "2023-11-28T15:39:13.119Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-28T15:39:13.119Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65660a2a845d33085ac9a7fd"
+  },
+  "content": "Sản phẩm rất tốt",
+  "status": true,
+  "products": {
+    "$oid": "655cbd6a63a53e8a923f60a4"
+  },
+  "customer": {
+    "$oid": "6553388f6730901f7e5e9b34"
+  },
+  "createdAt": {
+    "$date": "2023-11-28T15:41:30.153Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-28T15:41:30.153Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65661c09845d33085ac9ab7d"
+  },
+  "content": "đẹp",
+  "status": false,
+  "products": {
+    "$oid": "6425846a026a6d9ccfb766b8"
+  },
+  "customer": {
+    "$oid": "6553388f6730901f7e5e9b34"
+  },
+  "createdAt": {
+    "$date": "2023-11-28T16:57:45.419Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-04T01:09:00.752Z"
+  },
+  "__v": 0
+}]

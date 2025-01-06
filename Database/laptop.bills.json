@@ -1,0 +1,523 @@
+[{
+  "_id": {
+    "$oid": "64478dbb259e12374f557dce"
+  },
+  "pay": "Thanh toán khi nhận hàng",
+  "status": "Đã giao hàng thành công",
+  "total": {
+    "$numberLong": "3100000000"
+  },
+  "products": [
+    {
+      "id_product": {
+        "$oid": "642580f2026a6d9ccfb76647"
+      },
+      "quantity": 100,
+      "_id": {
+        "$oid": "64478dbb259e12374f557dd1"
+      }
+    }
+  ],
+  "customer": {
+    "$oid": "643fb7b2ab9e421e0d7bf1ba"
+  },
+  "createdAt": {
+    "$date": "2023-04-25T08:22:19.634Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-25T08:29:06.330Z"
+  },
+  "__v": 0,
+  "nhanvien": "Nhân viên 1",
+  "sdtnhanvien": "0786877893"
+},
+{
+  "_id": {
+    "$oid": "64478eac259e12374f557ea5"
+  },
+  "pay": "Thanh toán khi nhận hàng",
+  "status": "Đã giao hàng thành công",
+  "total": 26179000,
+  "products": [
+    {
+      "id_product": {
+        "$oid": "642584bb026a6d9ccfb766c9"
+      },
+      "quantity": 1,
+      "_id": {
+        "$oid": "64478ead259e12374f557ea9"
+      }
+    },
+    {
+      "id_product": {
+        "$oid": "642582ca026a6d9ccfb76684"
+      },
+      "quantity": 1,
+      "_id": {
+        "$oid": "64478ead259e12374f557eab"
+      }
+    }
+  ],
+  "customer": {
+    "$oid": "643fb7b2ab9e421e0d7bf1ba"
+  },
+  "createdAt": {
+    "$date": "2023-04-25T08:26:20.999Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-07T02:48:11.852Z"
+  },
+  "__v": 0,
+  "nhanvien": "Nhân viên 1",
+  "sdtnhanvien": "0786877893"
+},
+{
+  "_id": {
+    "$oid": "6553448efcf73e0a16069b6d"
+  },
+  "pay": "Thanh toán khi nhận hàng",
+  "status": "Đã giao hàng thành công",
+  "total": 31000000,
+  "products": [
+    {
+      "id_product": {
+        "$oid": "642580f2026a6d9ccfb76647"
+      },
+      "quantity": 1,
+      "_id": {
+        "$oid": "6553448efcf73e0a16069b71"
+      }
+    }
+  ],
+  "customer": {
+    "$oid": "6553388f6730901f7e5e9b34"
+  },
+  "createdAt": {
+    "$date": "2023-11-14T09:57:34.618Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-14T09:59:21.396Z"
+  },
+  "__v": 0,
+  "nhanvien": "Trần Hoàng Việt",
+  "sdtnhanvien": "0868224463"
+},
+{
+  "_id": {
+    "$oid": "65534617d167d984fb8de203"
+  },
+  "pay": "Thanh toán khi nhận hàng",
+  "status": "Đã giao hàng thành công",
+  "total": 31000000,
+  "products": [
+    {
+      "id_product": {
+        "$oid": "642580f2026a6d9ccfb76647"
+      },
+      "quantity": 1,
+      "_id": {
+        "$oid": "65534617d167d984fb8de208"
+      }
+    }
+  ],
+  "customer": {
+    "$oid": "6553388f6730901f7e5e9b34"
+  },
+  "createdAt": {
+    "$date": "2023-11-14T10:04:07.849Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-14T10:04:36.077Z"
+  },
+  "__v": 0,
+  "nhanvien": "Trần Hoàng Việt",
+  "sdtnhanvien": "0868224463"
+},
+{
+  "_id": {
+    "$oid": "65670198aa151e6ceb2eeabc"
+  },
+  "adress": "Đường 3/2, Xuân Khánh, Ninh Kiều, Cần Thơ",
+  "pay": "Thanh toán khi nhận hàng",
+  "status": "Đơn hàng đã bị hủy bỏ",
+  "total": 31000000,
+  "products": [
+    {
+      "id_product": {
+        "$oid": "642580f2026a6d9ccfb76647"
+      },
+      "quantity": 1,
+      "_id": {
+        "$oid": "655338bd6730901f7e5e9b6d"
+      }
+    }
+  ],
+  "customer": {
+    "$oid": "6553388f6730901f7e5e9b34"
+  },
+  "createdAt": {
+    "$date": "2023-11-29T09:17:12.657Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-30T16:17:13.940Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "656709a4aa151e6ceb2eec71"
+  },
+  "pay": "Thanh toán khi nhận hàng",
+  "status": "Đang giao hàng",
+  "total": 25000000,
+  "products": [
+    {
+      "id_product": {
+        "$oid": "6425808a026a6d9ccfb7663c"
+      },
+      "quantity": 1,
+      "_id": {
+        "$oid": "656709a4aa151e6ceb2eec76"
+      }
+    }
+  ],
+  "customer": {
+    "$oid": "6553388f6730901f7e5e9b34"
+  },
+  "createdAt": {
+    "$date": "2023-11-29T09:51:32.731Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-30T08:07:41.030Z"
+  },
+  "__v": 0,
+  "nhanvien": "Nhân viên 1",
+  "sdtnhanvien": "0786877893"
+},
+{
+  "_id": {
+    "$oid": "6568b4380ab3ab316ba24710"
+  },
+  "pay": "Thanh toán khi nhận hàng",
+  "status": "Chờ xác nhận",
+  "total": 30000000,
+  "products": [
+    {
+      "id_product": {
+        "$oid": "6425808a026a6d9ccfb7663c"
+      },
+      "quantity": 1,
+      "_id": {
+        "$oid": "6568b4380ab3ab316ba24715"
+      }
+    }
+  ],
+  "customer": {
+    "$oid": "6553388f6730901f7e5e9b34"
+  },
+  "createdAt": {
+    "$date": "2023-11-30T16:11:36.173Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-30T16:11:36.189Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6568ba1e47ffbe356f99ff64"
+  },
+  "pay": "Thanh toán khi nhận hàng",
+  "status": "Chờ xác nhận",
+  "total": 31000000,
+  "products": [
+    {
+      "id_product": {
+        "$oid": "642580f2026a6d9ccfb76647"
+      },
+      "quantity": 1,
+      "_id": {
+        "$oid": "6568ba1e47ffbe356f99ff69"
+      }
+    }
+  ],
+  "customer": {
+    "$oid": "6553388f6730901f7e5e9b34"
+  },
+  "createdAt": {
+    "$date": "2023-11-30T16:36:46.427Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-30T16:36:46.442Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6568bb58bfe52adde69d3aeb"
+  },
+  "pay": "Thanh toán khi nhận hàng",
+  "status": "Đơn hàng đã bị hủy bỏ",
+  "total": 30000000,
+  "products": [
+    {
+      "id_product": {
+        "$oid": "6425808a026a6d9ccfb7663c"
+      },
+      "quantity": 1,
+      "_id": {
+        "$oid": "6568bb58bfe52adde69d3af0"
+      }
+    }
+  ],
+  "customer": {
+    "$oid": "6553388f6730901f7e5e9b34"
+  },
+  "createdAt": {
+    "$date": "2023-11-30T16:42:00.930Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-30T16:44:42.745Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6568bc14dbf418fe1e330073"
+  },
+  "pay": "Thanh toán khi nhận hàng",
+  "status": "Chờ xác nhận",
+  "total": 22999998,
+  "products": [
+    {
+      "id_product": {
+        "$oid": "64258141026a6d9ccfb76650"
+      },
+      "quantity": 1,
+      "_id": {
+        "$oid": "6568bc14dbf418fe1e330078"
+      }
+    }
+  ],
+  "customer": {
+    "$oid": "6553388f6730901f7e5e9b34"
+  },
+  "createdAt": {
+    "$date": "2023-11-30T16:45:08.773Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-30T16:45:08.777Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6568bcfcc10638d449a3a742"
+  },
+  "pay": "Thanh toán khi nhận hàng",
+  "status": "Chờ xác nhận",
+  "total": 22999998,
+  "products": [
+    {
+      "id_product": {
+        "$oid": "64258141026a6d9ccfb76650"
+      },
+      "quantity": 1,
+      "_id": {
+        "$oid": "6568bcfcc10638d449a3a747"
+      }
+    }
+  ],
+  "customer": {
+    "$oid": "6553388f6730901f7e5e9b34"
+  },
+  "createdAt": {
+    "$date": "2023-11-30T16:49:00.833Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-30T16:49:00.843Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6568bd426ef1ed14124f3ff3"
+  },
+  "pay": "Thanh toán khi nhận hàng",
+  "status": "Đã giao hàng thành công",
+  "total": 22999998,
+  "products": [
+    {
+      "id_product": {
+        "$oid": "64258141026a6d9ccfb76650"
+      },
+      "quantity": 1,
+      "_id": {
+        "$oid": "6568bd426ef1ed14124f3ff8"
+      }
+    }
+  ],
+  "customer": {
+    "$oid": "6553388f6730901f7e5e9b34"
+  },
+  "createdAt": {
+    "$date": "2023-11-30T16:50:10.408Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-04T01:23:53.104Z"
+  },
+  "__v": 0,
+  "nhanvien": "Thiên Nguyễn",
+  "sdtnhanvien": "0786877893"
+},
+{
+  "_id": {
+    "$oid": "6568bdb481ce0f8606189204"
+  },
+  "pay": "Thanh toán khi nhận hàng",
+  "status": "Đơn hàng đã bị hủy bỏ",
+  "total": 30000000,
+  "products": [
+    {
+      "id_product": {
+        "$oid": "6425808a026a6d9ccfb7663c"
+      },
+      "quantity": 1,
+      "_id": {
+        "$oid": "6568bdb481ce0f8606189209"
+      }
+    }
+  ],
+  "customer": {
+    "$oid": "6553388f6730901f7e5e9b34"
+  },
+  "createdAt": {
+    "$date": "2023-11-30T16:52:04.601Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-30T17:49:22.545Z"
+  },
+  "__v": 0,
+  "nhanvien": "Nhân viên 1",
+  "sdtnhanvien": "0786877893"
+},
+{
+  "_id": {
+    "$oid": "656d2584b6024b069b5f2875"
+  },
+  "pay": "Thanh toán khi nhận hàng",
+  "status": "Đã giao hàng thành công",
+  "total": 68999994,
+  "products": [
+    {
+      "id_product": {
+        "$oid": "64258141026a6d9ccfb76650"
+      },
+      "quantity": 3,
+      "_id": {
+        "$oid": "656d2584b6024b069b5f287a"
+      }
+    }
+  ],
+  "customer": {
+    "$oid": "656d2391b6024b069b5f281d"
+  },
+  "createdAt": {
+    "$date": "2023-12-04T01:04:04.693Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-04T01:10:16.096Z"
+  },
+  "__v": 0,
+  "nhanvien": "Trần Hoàng Việt",
+  "sdtnhanvien": "0868224463"
+},
+{
+  "_id": {
+    "$oid": "656d2a77b6024b069b5f2a11"
+  },
+  "pay": "Thanh toán khi nhận hàng",
+  "status": "Chờ xác nhận",
+  "total": 22999998,
+  "products": [
+    {
+      "id_product": {
+        "$oid": "64258141026a6d9ccfb76650"
+      },
+      "quantity": 1,
+      "_id": {
+        "$oid": "6568bd426ef1ed14124f3ff8"
+      }
+    }
+  ],
+  "customer": {
+    "$oid": "6553388f6730901f7e5e9b34"
+  },
+  "createdAt": {
+    "$date": "2023-12-04T01:25:11.552Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-04T01:25:11.552Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677b607b876c1126c09341d4"
+  },
+  "pay": "Thanh toán khi nhận hàng",
+  "status": "Chờ xác nhận",
+  "total": 30000000,
+  "products": [
+    {
+      "id_product": {
+        "$oid": "6425808a026a6d9ccfb7663c"
+      },
+      "quantity": 1,
+      "_id": {
+        "$oid": "677b607b876c1126c09341d9"
+      }
+    }
+  ],
+  "customer": {
+    "$oid": "6553388f6730901f7e5e9b34"
+  },
+  "createdAt": {
+    "$date": "2025-01-06T04:47:55.746Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-06T04:47:55.766Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677b808f092b57948eb78c31"
+  },
+  "pay": "Đã thanh toán",
+  "status": "Đã giao hàng thành công",
+  "total": 77780000,
+  "products": [
+    {
+      "id_product": {
+        "$oid": "6549ccf3ea4f69fe0ae84a87"
+      },
+      "quantity": 2,
+      "_id": {
+        "$oid": "677b808f092b57948eb78c37"
+      }
+    }
+  ],
+  "customer": {
+    "$oid": "6553388f6730901f7e5e9b34"
+  },
+  "createdAt": {
+    "$date": "2025-01-06T07:04:47.502Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-06T07:07:53.126Z"
+  },
+  "__v": 0,
+  "nhanvien": "Trần Hoàng Việt",
+  "sdtnhanvien": "0868224463"
+}]

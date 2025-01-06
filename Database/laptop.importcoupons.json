@@ -1,0 +1,75 @@
+[{
+  "_id": {
+    "$oid": "6569731f5f686ed67db2d848"
+  },
+  "total": 300000000,
+  "nhanvien": {
+    "$oid": "63ec91d6b2a38d2e5be9f1ed"
+  },
+  "products": [
+    {
+      "_id": {
+        "$oid": "64258217026a6d9ccfb7666d"
+      },
+      "name": "Laptop Acer Nitro Gaming AN515-58-769J i7 12700H",
+      "price": 24000000,
+      "image": "Acer-Nitro-5-AN515-58-52SP-8.jpg",
+      "describe": "CPU:\tIntel, Core i7, 12700H;\r\nRAM:\t8 GB (1 thanh 8 GB), DDR4, 3200 MHz;\r\nỔ cứng:\tSSD 512 GB;\r\nĐồ họa:\tNVIDIA GeForce RTX 3050 4GB;\r\nHệ điều hành:\tWindows 11 Home Single Language",
+      "soluong": 15,
+      "giatien": 20000000,
+      "status": true,
+      "ghichu": "<p class=\"ql-align-justify\"><strong style=\"background-color: initial;\">Là chiếc&nbsp;</strong><a href=\"https://fptshop.com.vn/may-tinh-xach-tay/gaming-do-hoa\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"background-color: transparent; color: rgb(1, 104, 250);\"><strong>laptop gaming</strong></a><strong style=\"background-color: initial;\">&nbsp;thế hệ mới nhất thuộc dòng Nitro 5 luôn chiếm được rất nhiều cảm tình của game thủ trước đây, Acer Nitro Gaming AN515-58-769J nay còn ấn tượng hơn nữa với bộ vi xử lý Intel Core i7 12700H cực khủng và card đồ họa RTX 3050, sẵn sàng cùng bạn chinh phục những đỉnh cao.</strong></p><p class=\"ql-align-center\"><strong style=\"background-color: initial;\"><img src=\"https://images.fpt.shop/unsafe/filters:quality(90)/fptshop.com.vn/Uploads/images/2015/0511/acer-nitro-5-an515-tiger-2022-fpt-14.jpg\" alt=\"Acer Nitro Gaming AN515-58-769J (ảnh 1)\"></strong></p><h3 class=\"ql-align-justify\"><strong style=\"background-color: initial;\">Sức mạnh phá vỡ mọi giới hạn</strong></h3><p class=\"ql-align-justify\">Với Intel Core i7 12700H, Acer Nitro 5 Tiger AN515-58-769J có sức mạnh vượt qua những giới hạn từng có ở một chiếc laptop. Bạn sẽ được khám phá hiệu năng cực khủng từ 14 nhân 20 luồng, tốc độ 3.50 – 4.70 GHz, 24 MB Intel Smart Cache, mang đến nguồn năng lượng khổng lồ cho game thủ. Thỏa sức chơi những game bom tấn AAA, truyền phát trực tiếp, hay làm các công việc nặng như một máy trạm thực thụ. Cấu hình cực mạnh giúp Nitro 5 Tiger 2022 biến mọi thứ phức tạp trở thành đơn giản.</p><p class=\"ql-align-center\"><span style=\"background-color: initial;\"><img src=\"https://images.fpt.shop/unsafe/filters:quality(90)/fptshop.com.vn/Uploads/images/2015/0511/acer-nitro-5-an515-tiger-2022-fpt-17.jpg\" alt=\"Acer Nitro Gaming AN515-58-769J (ảnh 2)\"></span></p>"
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-12-01T05:46:07.401Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-01T05:46:07.401Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677b81a1092b57948eb78d25"
+  },
+  "total": 45000000,
+  "nhanvien": {
+    "$oid": "63ec91d6b2a38d2e5be9f1ed"
+  },
+  "products": [
+    {
+      "_id": {
+        "$oid": "6425808a026a6d9ccfb7663c"
+      },
+      "name": "Laptop Asus ROG Zephyrus GU502GU-ES014T",
+      "price": 30000000,
+      "image": "Laptop-Asus-ROG-Zephyrus-GU502GU-ES014T.png",
+      "describe": "CPU: Intel, Core i5, 12450H; RAM: 16 GB (2 thanh 8 GB), DDR4, 3200 MHz; Ổ cứng: SSD 512 GB; Đồ họa: NVIDIA GeForce RTX 3050 4GB; Hệ điều hành: Windows 11 Home Single Language",
+      "soluong": 1,
+      "giatien": 25000000,
+      "status": true,
+      "ghichu": "<h2><a href=\"https://www.thegioididong.com/laptop/asus-gu502g-i7-9750h-16gb-512gb-gtx1660ti-tui-win1\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(47, 128, 237);\"><strong>Laptop Asus ROG Zephyrus M GU502 (ES014T)</strong></a><strong>&nbsp;là sự lựa chọn tuyệt vời dành cho người dùng nói chung và game thủ nói riêng đang tìm kiếm một chiếc&nbsp;</strong><a href=\"https://www.thegioididong.com/laptop?g=laptop-gaming\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(47, 128, 237);\"><strong>laptop gaming</strong></a><strong>&nbsp;mỏng nhẹ. Thiết kế mới ấn tượng với độ mỏng nhẹ cùng hiệu năng thách thức mọi tựa game sẽ đem đến cho bạn trải nghiệm chơi game chuyên nghiệp nhất.</strong></h2><h3><strong>Thiết kế tinh tế, nhỏ gọn</strong></h3><p><a href=\"https://www.thegioididong.com/laptop-asus\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(47, 128, 237);\">Laptop Asus</a>&nbsp;ROG Zephyrus M GU502 (ES014T) có thiết kế ấn tượng với độ mỏng 18.9 mm và trọng lượng 1.93 kg được đánh giá là mỏng hơn 25% và nhẹ hơn 45% so với laptop 15 inch thông thường.</p><p>Lớp vỏ được hoàn thiện tỉ mỉ từ hợp kim nhôm magiê&nbsp;với logo ROG phát sáng màu đỏ tạo nên điểm nhấn nổi bật.</p><p><br></p><p><a href=\"https://cdn.tgdd.vn/Products/Images/44/204501/asus-gu502g-i7-9750h-16gb-512gb-gtx1660ti-tui-win1-3.jpg\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(47, 128, 237);\"><img src=\"https://cdn.tgdd.vn/Products/Images/44/204501/asus-gu502g-i7-9750h-16gb-512gb-gtx1660ti-tui-win1-3.jpg\" alt=\"Laptop Asus ROG Zephyrus M GU502 (ES014T) có thiết kế tinh tế, nhỏ gọn\"></a></p><p><br></p><h3><strong>Hiệu năng vượt ngoài mong đợi</strong></h3><p>Zephyrus M GU502GU-ES014T sở hữu&nbsp;<a href=\"https://www.thegioididong.com/laptop-dell?g=core-i7\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(47, 128, 237);\">cấu hình khủng</a>&nbsp;với chip&nbsp;<strong>Intel Core i7 thế hệ thứ 9&nbsp;</strong>kết hợp cùng&nbsp;<strong>RAM 16 GB</strong>&nbsp;thách đố mọi ứng dụng nặng hiện nay trên thị trường. Laptop còn được trang bị&nbsp;<a href=\"https://www.thegioididong.com/laptop?f=o-cung-ssd\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(47, 128, 237);\"><strong>ổ cứng SSD</strong></a><strong>&nbsp;512 GB, M.2 PCIe</strong>&nbsp;giúp máy khởi động máy nhanh hơn, mở game nhanh hơn mà không phải chờ đợi lâu.</p><p>Ngoài ra, máy được tiếp sức mạnh bởi&nbsp;<a href=\"https://www.thegioididong.com/tin-tuc/cung-tim-hieu-ve-card-do-hoa-roi-do-hoa-tich-hop-cho-laptop-1103220\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(47, 128, 237);\">card đồ họa rời</a>&nbsp;<strong>NVIDIA GeForce GTX 1660Ti 6 GB</strong>&nbsp;sẵn sàng đáp ứng mọi tựa game hot hiện nay như:&nbsp;PUBG, CS:GO,... và chạy tốt các ứng dụng đồ họa, dựng phim,...</p><p><br></p><h3><a href=\"https://cdn.tgdd.vn/Products/Images/44/204501/asus-gu502g-i7-9750h-16gb-512gb-gtx1660ti-tui-win11.jpg\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(21, 94, 193);\"><strong><img src=\"https://cdn.tgdd.vn/Products/Images/44/204501/asus-gu502g-i7-9750h-16gb-512gb-gtx1660ti-tui-win11.jpg\" alt=\"Laptop Asus ROG Zephyrus M GU502 (ES014T) có hiệu năng vượt ngoài mong đợi\"></strong></a></h3>"
+    },
+    {
+      "_id": {
+        "$oid": "64258141026a6d9ccfb76650"
+      },
+      "name": "Laptop Dell Inspiron 7590 -(N7590Z)",
+      "price": 22999998,
+      "image": "Laptop-Dell-Inspiron-7590--(N7590Z).png",
+      "describe": "CPU: Intel Core i7 9750H 2.60 GHz up to 4.50 GHz;\r\nRAM: 16GB (2x8GB) DDR4 2666MHz;\r\nỔ cứng: 1TB 5400RPM + 256GB SSD;\r\nĐồ họa: GEFORCE RTX 2060 6GB;\r\nHệ điều hành:\tWindows 10 Home Single Language",
+      "soluong": 1,
+      "giatien": 20000000,
+      "status": true,
+      "ghichu": "<p><strong>Laptop&nbsp;</strong><a href=\"https://songphuong.vn/product/laptop-dell-gaming-g7-inspiron-7590-n7590z\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"background-color: transparent; color: rgb(51, 51, 51);\"><strong>Dell Inspiron 7590 N7590Z</strong></a><strong>&nbsp;(i7 9750H, 16GB Ram, 256GB M.2 1TB HDD, RTX 2060 6GB GDDR6, , 15.6 inch Full HD, Win 10, Black)</strong></p><p>Sở hữu thiết kế mỏng nhẹ với kiểu dáng gaming,&nbsp;<a href=\"https://songphuong.vn/product/laptop-dell-gami%E2%80%A6iron-7590-n7590z\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"background-color: transparent; color: rgb(51, 51, 51);\"><strong>Laptop Dell GAMING G7 Inspiron 7590-N7590Z&nbsp;</strong></a>sẽ giúp người dùng tận hưởng những phút giây làm việc và giải trí mượt mà dựa trên màn hình 15.6 inch viền mỏng, hệ thống làm mát quạt kép nổi bật.</p><h2><strong>Thiết kế của&nbsp;</strong><a href=\"https://songphuong.vn/product/laptop-dell-gami%E2%80%A6iron-7590-n7590z\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"background-color: transparent; color: rgb(51, 51, 51);\"><strong>Laptop Dell GAMING G7 Inspiron 7590-N7590Z</strong></a></h2><p>Thiết kế mỏng nhẹ với trọng lượng chỉ 2.4kg, khoác trên mình chiếc áo màu đen, kết hợp với logo Dell màu xanh nổi bật nằm chính giữa trung tâm của lưng máy, tạo nên tính thể thao và khỏe khoắn. Phía bản lề được thiết kế có điểm nhấn, kết hợp khi mở máy đèn led cũng được chiếu sáng tại vị trí này. Xung quanh được bao bởi những đường thẳng xen vào đó là rãnh sâu cực kỳ bắt mắt. Phần đáy máy được thiết kế với những lưới tản nhiệt, giúp máy thoát nhiệt dễ dàng hơn.</p><p><a href=\"https://songphuong.vn/Content/uploads/2020/08/1-Laptop-Dell-GAMING-G7-Inspiron-7590-N7590Z.songphuong.vn_.jpg\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"background-color: transparent; color: rgb(51, 51, 51);\"><img src=\"https://songphuong.vn/Content/uploads/2020/08/1-Laptop-Dell-GAMING-G7-Inspiron-7590-N7590Z.songphuong.vn_.jpg\" alt=\"Laptop Dell Inspiron 7590 N7590Z - Song Phương\" height=\"384\" width=\"599\"></a></p>"
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-01-06T07:09:21.909Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-06T07:09:21.909Z"
+  },
+  "__v": 0
+}]
